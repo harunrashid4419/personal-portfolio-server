@@ -1,44 +1,102 @@
 [
     {
-        "name": "Resale Market",
+        "name": "Easy Doc (Team Project)",
         "id": "1",
-        "description": "Using React Js, Express Js, MongoDB, Firebase, Tailwind CSS, Daisy Ui",
+        "description": "If you want to read the documentation you visit our website. You can read react documentation and some interview, error questions. If you face any code-related problem, you can post our community route. If you need instant problem solving then you message us using live chat. But if you want to message us, you must pay us.",
+        "img": "https://i.ibb.co/gPjTfSX/Screenshot-253.png",
+        "img1": "https://i.ibb.co/C9chhbs/Screenshot-254.png",
+        "img2": "https://i.ibb.co/3FYHcC9/Screenshot-256.png",
+        "img3": "https://i.ibb.co/dQ3zHx9/Screenshot-255.png",
+        "link": "https://dreamy-zuccutto-8ce0d7.netlify.app/",
+        "client_code": "https://github.com/harunrashid4419/Easy_doc",
+        "server_code": "https://github.com/harunrashid4419/easy-doc-server",
+        "technology": "React Js, Express Js, MongoDB, Redux, Firebase, Tailwind CSS, Daisy Ui",
+        "features": [
+            "Features: Documentation, Dark-light mode, Live Chat, Blog, Courses, Community, Premium Users, Contact.",
+            "In this team project, I have worked on Live-chat, Dark-light Mode, Authentication, Blog, Quiz, Footer, add Blog, add Review, Docs route Main Concept, and blog sections.",
+            "You can see dark and light mood options on the home page. You can see dark light mode everywhere in the project.",
+            "You can see the messaging option at the bottom right of the home page. If you want to send a message, you can send a message with your email address.",
+            "If you click the quiz route, you see different types of quizzes. It's improving a developer's skills."
+        ]
+    },
+    {
+        "name": "Resale Market",
+        "id": "2",
+        "description": "Nowadays all new and old products can be bought and sold online. If you want to buy or sell old products, then you can visit our website and see the features. You can sell products on our website as a seller. Again as a buyer can purchase the product.",
         "img": "https://i.ibb.co/PmW7xk3/Screenshot-83.png",
-        "link": "https://resale-market-df27a.web.app/"
+        "img1": "https://i.ibb.co/QfW03nv/Screenshot-86.png",
+        "img2": "https://i.ibb.co/SJ62wnx/Screenshot-87.png",
+        "img3": "https://i.ibb.co/vd7n9Yf/Screenshot-88.png",
+        "link": "https://resale-market-df27a.web.app/",
+        "client_code": "https://github.com/harunrashid4419/resale-market-client",
+        "server_code": "https://github.com/harunrashid4419/resale-market-server",
+        "technology": "React Js, Express Js, MongoDB, Firebase, Tailwind CSS, Daisy Ui",
+        "features": [
+            "First, you can see the navbar slider on our website. You can see the category of products to take. Click here to see the product. From there you can buy the product.",
+            "If you create an account as a seller, you can sell your old products. You can add your products in the dashboard and see your added products.",
+            "You can add products by creating an account as a seller. You can view your products in the My Products route. If you click on Available there, you can see your product in the Advertised section on the home page.",
+            "You can purchase products if you create an account as a buyer. If you add the product by clicking on booking, you can see it in the order route.",
+            "If you add a product, you can see it in the order route. And can buy from there. You will be taken to another route to make the payment. You can pay with your details there."
+        ]
     },
     {
         "name": "Learner BD",
-        "id": "2",
-        "description": "Using React Js, Express Js, MongoDB, Firebase, Bootstrap, Daisy Ui",
+        "id": "3",
+        "description": "Do you want to buy good courses online? JavaScript, Web Design, Web Development, and Python courses can be purchased from our website. You must create an account to buy the courses.",
         "img": "https://i.ibb.co/4TjWcpX/Screenshot-82.png",
-        "link": "https://free-learn-58d4a.web.app/"
+        "img1": "https://i.ibb.co/drbmvW0/Screenshot-91.png",
+        "img2": "https://i.ibb.co/68x3BMj/Screenshot-89.png",
+        "img3": "https://i.ibb.co/grWyyWk/Screenshot-90.png",
+        "link": "https://free-learn-58d4a.web.app/",
+        "client_code": "https://github.com/harunrashid4419/learnerbd-client",
+        "server_code": "https://github.com/harunrashid4419/learnerbd-server",
+        "technology": "React Js, Express Js, MongoDB, Firebase, Bootstrap, Daisy Ui",
+        "features": [
+            "HTML, CSS, React JS and Bootstrap is used in the website",
+            "The website has some sections designed on the home page. You can see our courses by clicking on the See Courses button in the first section of the home page.",
+            "You can create an account by clicking on the registration page. And you can log in through the login page.",
+            "If you mouse over the courses, the course name, price, and rating are given. Click on the course or the next category to see the details of the course.",
+            "The course details page has a download option and a premium button. Clicking on the download option will download something. Clicking on the premium button will take you to another page.",
+            "You can see some information about the course on the premium page. And you can process your course on this page."
+        ]
     },
     {
         "name": "Doctors Portal",
-        "id": "3",
-        "description": "Using React Js, Express Js, MongoDB, Firebase, Tailwind CSS, Daisy Ui",
+        "id": "4",
+        "description": "In today's technology-dependent time, who will go to a hospital and see a doctor? If you want to see a doctor from home instead of going to the hospital, then visit our website. On our website, you can book a doctor's appointment and talk to a doctor.",
         "img": "https://i.ibb.co/wM9SWn2/Screenshot-84.png",
-        "link": "https://doctors-portal-recap-49d9b.web.app/"
+        "img1": "https://i.ibb.co/nzfZ9mb/Screenshot-94.png",
+        "img2": "https://i.ibb.co/nw0SvFp/Screenshot-92.png",
+        "img3": "https://i.ibb.co/XkJy1DW/Screenshot-93.png",
+        "link": "https://doctors-portal-recap-49d9b.web.app/",
+        "client_code": "https://github.com/harunrashid4419/doctors-portal-client",
+        "server_code": "https://github.com/harunrashid4419/doctors-portal-server",
+        "technology": "React Js, Express Js, MongoDB, Firebase, Tailwind CSS, Daisy Ui",
+        "features": [
+            "You can see some sections on the home page. You can see our services in the service section.",
+            "The header contains a route called Appointment. There you can take a doctor's appointment according to your problem.",
+            "If you log in, you can see the appointments you have made.",
+            "There is a contact section on the home page. You can contact us by mail.",
+            "The site has been made responsive. Responsive for mobile, tablet, and desktop."            
+        ]
     },
     {
         "name": "Quize Store",
-        "id": "4",
-        "description": "Using JavaScript, Tailwind CSS, ES6, CSS",
-        "img": "https://i.ibb.co/djLXMvj/Screenshot-81.png",
-        "link": "https://wonderful-capybara-fb2475.netlify.app/"
-    },
-    {
-        "name": "Hime",
         "id": "5",
-        "description": "Using HTML, CSS",
-        "img": "https://i.ibb.co/RD76tB7/Screenshot-79.png",
-        "link": "https://harun.devnuruzzaman.com/hime/"
-    },
-    {
-        "name": "Cuba",
-        "id": "6",
-        "description": "Using HTML, CSS",
-        "img": "https://i.ibb.co/drGztCY/Screenshot-80.png",
-        "link": "https://harun.devnuruzzaman.com/cuba/"
+        "description": "Do you want to improve your coding knowledge? You can give JavaScript, React, Github, HTML, and CSS quizzes.",
+        "img": "https://i.ibb.co/djLXMvj/Screenshot-81.png",
+        "img1": "https://i.ibb.co/myXBs0d/Screenshot-95.png",
+        "img2": "https://i.ibb.co/MSNZtgR/Screenshot-96.png",
+        "img3": "https://i.ibb.co/JsZr6tF/Screenshot-97.png",
+        "link": "https://wonderful-capybara-fb2475.netlify.app/",
+        "client_code": "https://github.com/harunrashid4419/quiz-store-assignment9",
+        "technology": "React Js, HTML-5, CSS-3",
+        "features": [
+            "HTML, CSS, React JS and Bootstrap is used in the website",
+            "You can see some quiz options on the home page",
+            "Click on Start Quiz and you will see many quizzes.",
+            "A toast will show whether the answer to the quiz is correct or wrong",
+            "You can see the I button. Click here to see the correct answer."
+        ]
     }
 ]
