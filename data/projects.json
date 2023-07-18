@@ -10,7 +10,7 @@
         "link": "https://dreamy-zuccutto-8ce0d7.netlify.app/",
         "client_code": "https://github.com/harunrashid4419/Easy_doc",
         "server_code": "https://github.com/harunrashid4419/easy-doc-server",
-        "technology": "React Js, Express Js, MongoDB, Redux, Firebase, Tailwind CSS, Daisy Ui",
+        "technology": "React Js, Express Js, JavaScript, MongoDB, Redux, Firebase, Tailwind CSS, Daisy Ui, HTML-5, CSS-3",
         "features": [
             "Features: Documentation, Dark-light mode, Live Chat, Blog, Courses, Community, Premium Users, Contact.",
             "In this team project, I have worked on Live-chat, Dark-light Mode, Authentication, Blog, Quiz, Footer, add Blog, add Review, Docs route Main Concept, and blog sections.",
@@ -20,8 +20,26 @@
         ]
     },
     {
-        "name": "Resale Market",
+        "name": "Italy Food",
         "id": "2",
+        "description": "This is an Italy food restaurant. Any user can see food and order if he/she wants. The website is fully responsive.",
+        "img": "https://i.ibb.co/b56FVjm/Screenshot-296.png",
+        "img1": "https://i.ibb.co/JywxqW3/Screenshot-299.png",
+        "img2": "https://i.ibb.co/LQR11Hv/Screenshot-297.png",
+        "img3": "https://i.ibb.co/VwNbGfp/Screenshot-298.png",
+        "link": "https://italy-food.netlify.app/",
+        "client_code": "https://github.com/harunrashid4419/italy-food",
+        "server_code": "https://github.com/harunrashid4419/italy-food_serverSide",
+        "technology": "React Js, Express Js, JavaScript, MongoDB, Firebase, Tailwind CSS, Daisy Ui, HTML-5, CSS-3",
+        "features": [
+            "This is an Italy food restaurant. Users can order his/her favorite foods. If any user clicks the food details button, he/she sees the food details page. And users can review the foods.",
+            "When user hover over the Navbar, User can see the different types of background effects.",
+            "When user hover over the Navbar, User can see the different types of background effects."
+        ]
+    },
+    {
+        "name": "Resale Market",
+        "id": "3",
         "description": "Nowadays all new and old products can be bought and sold online. If you want to buy or sell old products, then you can visit our website and see the features. You can sell products on our website as a seller. Again as a buyer can purchase the product.",
         "img": "https://i.ibb.co/PmW7xk3/Screenshot-83.png",
         "img1": "https://i.ibb.co/QfW03nv/Screenshot-86.png",
@@ -30,7 +48,7 @@
         "link": "https://resale-market-df27a.web.app/",
         "client_code": "https://github.com/harunrashid4419/resale-market-client",
         "server_code": "https://github.com/harunrashid4419/resale-market-server",
-        "technology": "React Js, Express Js, MongoDB, Firebase, Tailwind CSS, Daisy Ui",
+        "technology": "React Js, Express Js, JavaScript, MongoDB, Firebase, Tailwind CSS, Daisy Ui, HTML-5, CSS-3",
         "features": [
             "First, you can see the navbar slider on our website. You can see the category of products to take. Click here to see the product. From there you can buy the product.",
             "If you create an account as a seller, you can sell your old products. You can add your products in the dashboard and see your added products.",
@@ -40,8 +58,26 @@
         ]
     },
     {
+        "name": "MoviesHub",
+        "id": "4",
+        "description": "Users can download his/her favorite movies. If any user clicks the movie poster, users can see the details page of the movie.",
+        "img": "https://i.ibb.co/yVHNyhx/Screenshot-285.png",
+        "img1": "https://i.ibb.co/phf0T9d/Screenshot-286.png",
+        "img2": "https://i.ibb.co/jG33CNZ/Screenshot-284.png",
+        "img3": "https://i.ibb.co/Q8v1RkQ/Screenshot-283.png",
+        "link": "https://hd-movies-hub.netlify.app/",
+        "client_code": "https://github.com/harunrashid4419/movies_Hub",
+        "server_code": "https://github.com/harunrashid4419/movies_hub_server",
+        "technology": "React Js, Express Js, TypeScript, MongoDB, Firebase, Tailwind CSS, Daisy UI, Swiper Js, HTML-5, CSS-3",
+        "features": [
+            "Users can download his/her favorite movies and comment on any movies if he/she wants.",
+            "When users hover over the poster image, User can see the beautiful effect on the images.",
+            "If any user can't find his/her favorite movie, he/she can request the favorite movie. If the user wants to request the movie, the user must be login or signup. Then fill up the form."
+        ]
+    },
+    {
         "name": "Learner BD",
-        "id": "3",
+        "id": "5",
         "description": "Do you want to buy good courses online? JavaScript, Web Design, Web Development, and Python courses can be purchased from our website. You must create an account to buy the courses.",
         "img": "https://i.ibb.co/4TjWcpX/Screenshot-82.png",
         "img1": "https://i.ibb.co/drbmvW0/Screenshot-91.png",
@@ -50,7 +86,7 @@
         "link": "https://free-learn-58d4a.web.app/",
         "client_code": "https://github.com/harunrashid4419/learnerbd-client",
         "server_code": "https://github.com/harunrashid4419/learnerbd-server",
-        "technology": "React Js, Express Js, MongoDB, Firebase, Bootstrap, Daisy Ui",
+        "technology": "React Js, Express Js, JavaScript, MongoDB, Firebase, Bootstrap, HTML-5, CSS-6",
         "features": [
             "HTML, CSS, React JS and Bootstrap is used in the website",
             "The website has some sections designed on the home page. You can see our courses by clicking on the See Courses button in the first section of the home page.",
@@ -62,7 +98,7 @@
     },
     {
         "name": "Doctors Portal",
-        "id": "4",
+        "id": "6",
         "description": "In today's technology-dependent time, who will go to a hospital and see a doctor? If you want to see a doctor from home instead of going to the hospital, then visit our website. On our website, you can book a doctor's appointment and talk to a doctor.",
         "img": "https://i.ibb.co/wM9SWn2/Screenshot-84.png",
         "img1": "https://i.ibb.co/nzfZ9mb/Screenshot-94.png",
@@ -71,32 +107,13 @@
         "link": "https://doctors-portal-recap-49d9b.web.app/",
         "client_code": "https://github.com/harunrashid4419/doctors-portal-client",
         "server_code": "https://github.com/harunrashid4419/doctors-portal-server",
-        "technology": "React Js, Express Js, MongoDB, Firebase, Tailwind CSS, Daisy Ui",
+        "technology": "React Js, Express Js, JavaScript, MongoDB, Firebase, Tailwind CSS, Daisy Ui, HTML-5, CSS-3",
         "features": [
             "You can see some sections on the home page. You can see our services in the service section.",
             "The header contains a route called Appointment. There you can take a doctor's appointment according to your problem.",
             "If you log in, you can see the appointments you have made.",
             "There is a contact section on the home page. You can contact us by mail.",
             "The site has been made responsive. Responsive for mobile, tablet, and desktop."            
-        ]
-    },
-    {
-        "name": "Quize Store",
-        "id": "5",
-        "description": "Do you want to improve your coding knowledge? You can give JavaScript, React, Github, HTML, and CSS quizzes.",
-        "img": "https://i.ibb.co/djLXMvj/Screenshot-81.png",
-        "img1": "https://i.ibb.co/myXBs0d/Screenshot-95.png",
-        "img2": "https://i.ibb.co/MSNZtgR/Screenshot-96.png",
-        "img3": "https://i.ibb.co/JsZr6tF/Screenshot-97.png",
-        "link": "https://wonderful-capybara-fb2475.netlify.app/",
-        "client_code": "https://github.com/harunrashid4419/quiz-store-assignment9",
-        "technology": "React Js, HTML-5, CSS-3",
-        "features": [
-            "HTML, CSS, React JS and Bootstrap is used in the website",
-            "You can see some quiz options on the home page",
-            "Click on Start Quiz and you will see many quizzes.",
-            "A toast will show whether the answer to the quiz is correct or wrong",
-            "You can see the I button. Click here to see the correct answer."
         ]
     }
 ]
